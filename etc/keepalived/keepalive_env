@@ -1,0 +1,6 @@
+API_TOKEN=""
+# Define the IPs of the servers
+M02_IP=""  # m02 IP address
+M03_IP=""   # m03 IP address
+# Failover IP to be switched
+FAILOVER_IP=""
